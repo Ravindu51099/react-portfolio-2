@@ -1,6 +1,6 @@
-import React from 'react'
-import './Services.css'
-import {BiCheck} from 'react-icons/bi'
+import React from "react";
+import "./Services.css";
+import { BiCheck } from "react-icons/bi";
 
 function Services() {
   return (
@@ -9,7 +9,6 @@ function Services() {
       <h2>Services</h2>
 
       <div className="container services__container">
-
         <article className="service">
           <div className="service__head">
             <h3>UI/UX Design</h3>
@@ -18,23 +17,19 @@ function Services() {
           <div className="service__list">
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor, sit amet consectetur elit.</p>
+              <p>Branding</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor, sit amet consectetur elit.</p>
+              <p>Responsive Web Design</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor, sit amet consectetur elit.</p>
+              <p>User Experience Consulting</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor, sit amet consectetur elit.</p>
-            </li>
-            <li>
-              <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor, sit amet consectetur elit.</p>
+              <p> Promotional Designs</p>
             </li>
           </div>
         </article>
@@ -49,27 +44,23 @@ function Services() {
           <div className="service__list">
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor, sit amet consectetur elit.</p>
+              <p>Web Application Development</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor, sit amet consectetur elit.</p>
+              <p>Cybersecurity</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor, sit amet consectetur elit.</p>
+              <p>Unit Testing</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor, sit amet consectetur elit.</p>
+              <p>Maintenance</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor, sit amet consectetur elit.</p>
-            </li>
-            <li>
-              <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor, sit amet consectetur elit.</p>
+              <p>Consultancy</p>
             </li>
           </div>
         </article>
@@ -84,32 +75,23 @@ function Services() {
           <div className="service__list">
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor, sit amet consectetur elit.</p>
+              <p>Develop Content</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor, sit amet consectetur elit.</p>
+              <p>Write Content</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor, sit amet consectetur elit.</p>
-            </li>
-            <li>
-              <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor, sit amet consectetur elit.</p>
-            </li>
-            <li>
-              <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor, sit amet consectetur elit.</p>
+              <p>Publish Content For Your Business</p>
             </li>
           </div>
         </article>
 
         {/* END OF CONTENT CREATION */}
-
       </div>
     </section>
-  )
+  );
 }
 
-export default Services
+export default Services;

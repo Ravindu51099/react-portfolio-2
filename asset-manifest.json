@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ravindu.me/static/css/main.852d48a9.css",
+    "main.js": "/ravindu.me/static/js/main.6215c520.js",
+    "static/media/Ravindu Dissanayake CV.pdf": "/ravindu.me/static/media/Ravindu Dissanayake CV.75af7ffaca85b65302ac.pdf",
+    "static/media/me.jpeg": "/ravindu.me/static/media/me.73dc3df31f78a7bc8c6a.jpeg",
+    "static/media/avatar1.png": "/ravindu.me/static/media/avatar1.75658161ed9d42807d04.png",
+    "static/media/Ravindu.jpeg": "/ravindu.me/static/media/Ravindu.cde7a5f7bb78a9065207.jpeg",
+    "index.html": "/ravindu.me/index.html",
+    "main.852d48a9.css.map": "/ravindu.me/static/css/main.852d48a9.css.map",
+    "main.6215c520.js.map": "/ravindu.me/static/js/main.6215c520.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.852d48a9.css",
+    "static/js/main.6215c520.js"
+  ]
+}
